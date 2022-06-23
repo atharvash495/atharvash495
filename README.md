@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @atharvash495
+- 👋 Hi, I’m Atharva Shreyanshu and I am currently pursing my Bachelors in Computer Science in Raj Kumar Goel Institute of Technology, Ghaziabad.
 - 👀 I’m interested in oppurtunities regarding technological developments.
-- 🌱 I’m currently learning Python as a coding language and I have an interest in IoT , creating apps and Hacking.
+- 🌱 I’m currently learning Python as a coding language and I have an interest in IoT , creating mobile apps and Hacking.
 - 💞️ I’m looking to collaborate on many projects and likely options.
 - 📫 How to reach me ...Ph- +918178032351, Email- atharvash495@gmail.com.
 
